@@ -1,9 +1,9 @@
 # GB-Boundary-Generator
 This is a program used to convert special objects imported into SSG3 or Golf Blitz courses into real boundaries for course making.
 
-NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
+######NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
 
-USAGE:
+##USAGE:
 
 1. Download the newest release of Boundary Generator from https://github.com/Blakiemon/GB-Boundary-Generator/releases
 
@@ -19,18 +19,18 @@ USAGE:
 
 7. You are DONE! Go ahead and open the course, please note that you will not be able to visually see the boundaries unless you turn on the debug view during play-mode
 
-BUT WHY?:
+##BUT WHY?:
 
-Welll.... "Why would you event WANT to add boundaries to your course?" I hear. 
+*Welll.... "Why would you event WANT to add boundaries to your course?" I hear.*
 1. Boundaries are invisible, and so you can create a kaizo / troll course to terrorize people :-)
  
 2. Spider and Tunnel ball cannot stick to / tunnel through the boundary. (Again good for trolling)
 
 3. You can make certain areas that are blocked off and cannot be tunneled into (E.G decoration or some other crap)
 
-OPENING ON DIFFERENT OS:
+##OPENING ON DIFFERENT OS:
 
-REQUIREMENTS: Python3, and the PySimpleGUI package.
+*REQUIREMENTS: Python3, and the PySimpleGUI package.*
 1. Please download the latest version of Python here https://www.python.org/downloads/
 
 2. Then install pip using this guide https://www.makeuseof.com/tag/install-pip-for-python/
