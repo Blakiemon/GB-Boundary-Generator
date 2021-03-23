@@ -45,7 +45,7 @@ An easy way to do this is to type `cd ` then drag and drop the folder onto the b
 
 ***AND FINALLY***
 
-6. Once you're in the directory with Boundary Generator (😩 Yes I know these isntructions were so hard to follow....) type in `python BoundaryGenerator.py` if that doesn't work type in `python3 BoundaryGenerator.py` if that doesn't work either try running `pip3 install PySimpleGUI` THEN run `python3 BoundaryGenerator.py`
+6. Once you're in the directory with Boundary Generator (😩 Yes I know these instructions were so hard to follow....) type in `python BoundaryGenerator.py` if that doesn't work type in `python3 BoundaryGenerator.py` if that doesn't work either try running `pip3 install PySimpleGUI` THEN run `python3 BoundaryGenerator.py`
 
 AND YOU ARE DONE! Enjoy using the program :P
 
