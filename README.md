@@ -1,9 +1,9 @@
 # GB-Boundary-Generator
 This is a program used to convert special objects imported into SSG3 or Golf Blitz courses into real boundaries for course making.
 
-######NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
+###### NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
 
-##USAGE:
+## USAGE:
 
 1. Download the newest release of Boundary Generator from https://github.com/Blakiemon/GB-Boundary-Generator/releases
 
@@ -19,7 +19,7 @@ This is a program used to convert special objects imported into SSG3 or Golf Bli
 
 7. You are DONE! Go ahead and open the course, please note that you will not be able to visually see the boundaries unless you turn on the debug view during play-mode
 
-##BUT WHY?:
+## BUT WHY?:
 
 *Welll.... "Why would you event WANT to add boundaries to your course?" I hear.*
 1. Boundaries are invisible, and so you can create a kaizo / troll course to terrorize people :-)
@@ -28,7 +28,7 @@ This is a program used to convert special objects imported into SSG3 or Golf Bli
 
 3. You can make certain areas that are blocked off and cannot be tunneled into (E.G decoration or some other crap)
 
-##OPENING ON DIFFERENT OS:
+## OPENING ON DIFFERENT OS:
 
 *REQUIREMENTS: Python3, and the PySimpleGUI package.*
 1. Please download the latest version of Python here https://www.python.org/downloads/
@@ -43,8 +43,8 @@ This is a program used to convert special objects imported into SSG3 or Golf Bli
 An easy way to do this is to type `cd ` then drag and drop the folder onto the bash/shell.
 
 
-AND FINALLY 
+***AND FINALLY***
 6. Once you're in the directory with Boundary Generator (😩 Yes I know these isntructions were so hard to follow....) type in `python BoundaryGenerator.py` if that doesn't work type in `python3 BoundaryGenerator.py` if that doesn't work either try running `pip3 install PySimpleGUI` THEN run `python3 BoundaryGenerator.py`
 
-AND YOU ARE DONE! Enjoy using the progrma :P
+AND YOU ARE DONE! Enjoy using the program :P
 
