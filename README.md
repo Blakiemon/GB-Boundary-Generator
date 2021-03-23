@@ -1,7 +1,7 @@
 # GB-Boundary-Generator
 This is a program used to convert special objects imported into SSG3 or Golf Blitz courses into real boundaries for course making.
 
-###### NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
+##### NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
 
 ## USAGE:
 
