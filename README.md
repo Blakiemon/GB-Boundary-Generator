@@ -3,6 +3,8 @@ This is a program used to convert special objects imported into Golf Blitz cours
 
 ##### NOTE: This program is only compatible with MacOS 10.14 and higher. Please see the OPENING ON DIFFERENT OS section for info on running the python script.
 
+### Video Tutorial: https://www.youtube.com/watch?v=X6mAMkMpwQ8
+
 ## USAGE:
 
 1. Download the newest release of Boundary Generator from https://github.com/Blakiemon/GB-Boundary-Generator/releases
