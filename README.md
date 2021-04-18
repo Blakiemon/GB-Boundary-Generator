@@ -21,6 +21,14 @@ This is a program used to convert special objects imported into Golf Blitz cours
 
 7. You are DONE! Go ahead and open the course, please note that you will not be able to visually see the boundaries unless you turn on the debug view during play-mode
 
+## CONVERTING BACK TO OBJECTS
+
+1. Basically once you've generated boundaries but realized you want them back as objects for tweaking, you open the program and select your course and holes.
+
+2. Before clicking process, check the box that says it will convert everything back to objects.
+
+3. Great. Everything is now an object for you to tweak / delete them and convert back into real boundaries. Enjoy!
+
 ## BUT WHY?:
 
 *Welll.... "Why would you event WANT to add boundaries to your course?" I hear.*
